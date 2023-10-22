@@ -42,7 +42,7 @@
       "tolkien",
       "whip"
     ],
-    "src": "https://img.youtube.com/vi/0Otd9J9H7FY/maxresdefault.jpg",
+    "src": "https://i0.wp.com/img.screencaps.us/200/4k-fellowship/full/4k-fellowship-movie-screencaps.com-23492.jpg?ssl=1",
     "breakdownLinks": [
       "https://youtu.be/QiMDJjd0K1Y?t=735",
       "https://youtu.be/QiMDJjd0K1Y?t=1117"
@@ -273,6 +273,7 @@
       "fracture",
       "grapnel",
       "grapplinghook",
+      "gusts",
       "hologram",
       "holography",
       "implosion",
@@ -282,7 +283,8 @@
       "shockwave",
       "sword",
       "tronlegacy",
-      "wind"
+      "wind",
+      "wispy"
     ],
     "src": "https://img.youtube.com/vi/tLm9jakUQKc/maxresdefault.jpg",
     "breakdownLinks": [
@@ -520,7 +522,7 @@
       "subway",
       "sun"
     ],
-    "src": "https://img.youtube.com/vi/0WmrnpsVUfo/maxresdefault.jpg",
+    "src": "https://i0.wp.com/img.screencaps.us/200/9-2012/full/2012-movie-screencaps.com-2491.jpg?ssl=1",
     "breakdownLinks": [
       "WIP"
     ],
@@ -621,7 +623,7 @@
   },
   {
     "id": 16,
-    "href": "https://www.youtube.com/watch?v=nUXZpPNZQrg",
+    "href": "https://www.youtube.com/watch?v=--YJFxKCjpQ",
     "dataTags": [
       "airplane",
       "atomicbomb",
@@ -839,6 +841,7 @@
       "flight",
       "fly",
       "fracture",
+      "gusts",
       "horde",
       "hypersonic",
       "jump",
@@ -857,7 +860,8 @@
       "taiga",
       "torque",
       "trail",
-      "tundra"
+      "tundra",
+      "wispy"
     ],
     "src": "https://img.youtube.com/vi/IYdg1Y8S0N0/maxresdefault.jpg",
     "breakdownLinks": [
@@ -933,6 +937,16 @@
     "src": "https://img.youtube.com/vi/Vgcg7K0KoBw/maxresdefault.jpg",
     "breakdownLinks": [
       "WIP"
+    ],
+    "movieTitle": "Watchmen"
+  },
+  {
+    "id": 24,
+    "href": "https://www.youtube.com/watch?v=52XlyMbxxh8",
+    "dataTags": [],
+    "src": "https://img.youtube.com/vi/Vgcg7K0KoBw/maxresdefault.jpg",
+    "breakdownLinks": [
+      "https://www.youtube.com/watch?v=yR0HmxS66yk"
     ],
     "movieTitle": "Watchmen"
   }
