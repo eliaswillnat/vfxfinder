@@ -47,7 +47,8 @@
       "https://youtu.be/QiMDJjd0K1Y?t=735",
       "https://youtu.be/QiMDJjd0K1Y?t=1117"
     ],
-    "movieTitle": "The Lord of the Rings: The Fellowship of the Ring"
+    "movieTitle": "The Lord of the Rings: The Fellowship of the Ring",
+    "newLabel": null
   },
   {
     "id": 2,
@@ -83,7 +84,8 @@
       "https://youtu.be/eG9kJ6IKXx0?t=37",
       "https://youtu.be/nI_jf0lIIDU?t=147"
     ],
-    "movieTitle": "Project Power"
+    "movieTitle": "Project Power",
+    "newLabel": null
   },
   {
     "id": 3,
@@ -126,7 +128,8 @@
       "https://youtu.be/pmC4ReXa62A%20",
       "https://youtu.be/3hODVXVVzCI?t=958"
     ],
-    "movieTitle": "2012 (film)"
+    "movieTitle": "2012 (film)",
+    "newLabel": null
   },
   {
     "id": 4,
@@ -164,7 +167,8 @@
       "https://youtu.be/wCWOKF5H3-A?t=315",
       "https://youtu.be/bVQpT2T7kpg?t=599"
     ],
-    "movieTitle": "Indiana Jones and the Kingdom of the Crystal Skull"
+    "movieTitle": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "newLabel": null
   },
   {
     "id": 5,
@@ -215,7 +219,8 @@
       "https://youtu.be/0VY_kbU2ygQ",
       "https://youtu.be/3SYfLE6UmIo"
     ],
-    "movieTitle": "Jurassic World: Fallen Kingdom"
+    "movieTitle": "Jurassic World: Fallen Kingdom",
+    "newLabel": null
   },
   {
     "id": 6,
@@ -256,7 +261,8 @@
     ],
     "src": "https://firebasestorage.googleapis.com/v0/b/vfxfinder-2023.appspot.com/o/thumbnails%2Finterstellar_wormhole.webp?alt=media&token=6216c76b-b8fa-427c-8a8e-99485860161c",
     "breakdownLinks": [],
-    "movieTitle": "Interstellar"
+    "movieTitle": "Interstellar",
+    "newLabel": null
   },
   {
     "id": 7,
@@ -293,7 +299,8 @@
       "https://youtu.be/cSWuYNzk0nk?t=455",
       "https://youtu.be/cSWuYNzk0nk?t=1304"
     ],
-    "movieTitle": "Tron: Legacy"
+    "movieTitle": "Tron: Legacy",
+    "newLabel": null
   },
   {
     "id": 8,
@@ -344,7 +351,8 @@
       "https://youtu.be/XSx4TuarYGU?t=99",
       "https://youtu.be/eG9kJ6IKXx0?t=140"
     ],
-    "movieTitle": "Project Power"
+    "movieTitle": "Project Power",
+    "newLabel": null
   },
   {
     "id": 9,
@@ -382,7 +390,8 @@
     "breakdownLinks": [
       "WIP"
     ],
-    "movieTitle": "King Kong"
+    "movieTitle": "King Kong",
+    "newLabel": null
   },
   {
     "id": 10,
@@ -421,7 +430,8 @@
     "breakdownLinks": [
       "WIP"
     ],
-    "movieTitle": "Star Wars: The Last Jedi"
+    "movieTitle": "Star Wars: The Last Jedi",
+    "newLabel": null
   },
   {
     "id": 11,
@@ -452,7 +462,8 @@
     "breakdownLinks": [
       "WIP"
     ],
-    "movieTitle": "X-Men: Days of Future Past"
+    "movieTitle": "X-Men: Days of Future Past",
+    "newLabel": null
   },
   {
     "id": 12,
@@ -490,7 +501,8 @@
     "breakdownLinks": [
       "WIP"
     ],
-    "movieTitle": "Interstellar"
+    "movieTitle": "Interstellar",
+    "newLabel": null
   },
   {
     "id": 13,
@@ -526,7 +538,8 @@
     "breakdownLinks": [
       "WIP"
     ],
-    "movieTitle": "2012 (film)"
+    "movieTitle": "2012 (film)",
+    "newLabel": null
   },
   {
     "id": 14,
@@ -561,7 +574,8 @@
     "breakdownLinks": [
       "WIP"
     ],
-    "movieTitle": "Knowing"
+    "movieTitle": "Knowing",
+    "newLabel": null
   },
   {
     "id": 15,
@@ -619,7 +633,8 @@
     "breakdownLinks": [
       "WIP"
     ],
-    "movieTitle": "X-Men: Days of Future Past"
+    "movieTitle": "X-Men: Days of Future Past",
+    "newLabel": null
   },
   {
     "id": 16,
@@ -662,7 +677,8 @@
     "breakdownLinks": [
       "WIP"
     ],
-    "movieTitle": "The Wolverine"
+    "movieTitle": "The Wolverine",
+    "newLabel": null
   },
   {
     "id": 17,
@@ -697,7 +713,8 @@
     "breakdownLinks": [
       "WIP"
     ],
-    "movieTitle": "Doctor Strange"
+    "movieTitle": "Doctor Strange",
+    "newLabel": null
   },
   {
     "id": 18,
@@ -732,7 +749,8 @@
     "breakdownLinks": [
       "WIP"
     ],
-    "movieTitle": "Nobody"
+    "movieTitle": "Nobody",
+    "newLabel": null
   },
   {
     "id": 19,
@@ -786,7 +804,8 @@
     "breakdownLinks": [
       "WIP"
     ],
-    "movieTitle": "The Great Wall"
+    "movieTitle": "The Great Wall",
+    "newLabel": null
   },
   {
     "id": 20,
@@ -819,7 +838,8 @@
     "breakdownLinks": [
       "WIP"
     ],
-    "movieTitle": "X-Men: Apocalypse"
+    "movieTitle": "X-Men: Apocalypse",
+    "newLabel": null
   },
   {
     "id": 21,
@@ -867,7 +887,8 @@
     "breakdownLinks": [
       "WIP"
     ],
-    "movieTitle": "Man of Steel"
+    "movieTitle": "Man of Steel",
+    "newLabel": null
   },
   {
     "id": 22,
@@ -892,7 +913,8 @@
     "breakdownLinks": [
       "WIP"
     ],
-    "movieTitle": "Mission: Impossible – Ghost Protocol"
+    "movieTitle": "Mission: Impossible – Ghost Protocol",
+    "newLabel": null
   },
   {
     "id": 23,
@@ -938,7 +960,8 @@
     "breakdownLinks": [
       "WIP"
     ],
-    "movieTitle": "Watchmen"
+    "movieTitle": "Watchmen",
+    "newLabel": null
   },
   {
     "id": 24,
@@ -967,7 +990,8 @@
     "breakdownLinks": [
       "https://www.youtube.com/watch?v=yR0HmxS66yk"
     ],
-    "movieTitle": "Star Trek II: The Wrath of Khan"
+    "movieTitle": "Star Trek II: The Wrath of Khan",
+    "newLabel": null
   },
   {
     "id": 25,
@@ -991,6 +1015,7 @@
     "breakdownLinks": [
       "https://youtu.be/pYAHj4qyGlM?feature=shared&t=326"
     ],
-    "movieTitle": "Baahubali 2: The Conclusion"
+    "movieTitle": "Baahubali 2: The Conclusion",
+    "newLabel": "NEW"
   }
 ]

@@ -44,6 +44,14 @@ function createVideoElements(videos) {
     staticImage.src = video.src;
     staticImage.alt = video.alt;
 
+    if (video.newLabel && video.newLabel.trim() !== "") {
+      const newLabelDiv = document.createElement('div');
+      newLabelDiv.textContent = video.newLabel;
+      newLabelDiv.className = 'new-label';
+      videoThumbnail.appendChild(newLabelDiv);
+      videoThumbnail.classList.add('show-label');
+    }
+
     videoThumbnail.appendChild(staticImage);
     videoContainer.appendChild(videoThumbnail);
   });

@@ -563,6 +563,21 @@ h4 {
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
 }
 
+.new-label {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  background-color: #E492F5;
+  color: #0E0325;
+  border-radius: 5px;
+  padding: 2px 5px;
+  font-size: 0.75rem;
+  display: none;
+}
+
+.video-thumbnail.show-label .new-label {
+  display: block;
+}
 
 .related-video-wrapper {
   width: calc(24% - 10px);
