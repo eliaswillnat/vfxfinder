@@ -565,15 +565,19 @@ h4 {
 
 .new-label {
   position: absolute;
-  bottom: 5px;
-  right: 5px;
+  bottom: 15px;
+  right: 15px;
   background-color: #E492F5;
   color: #0E0325;
   border-radius: 5px;
   padding: 2px 5px;
   font-size: 0.75rem;
-  display: none;
+  font-weight: bold;
+  display: block;
 }
+
+
+
 
 .video-thumbnail.show-label .new-label {
   display: block;
