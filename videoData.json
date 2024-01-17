@@ -968,5 +968,29 @@
       "https://www.youtube.com/watch?v=yR0HmxS66yk"
     ],
     "movieTitle": "Star Trek II: The Wrath of Khan"
+  },
+  {
+    "id": 25,
+    "href": "https://www.youtube.com/watch?v=UJ62EKYhRS8",
+    "dataTags": [
+      "army",
+      "baahubali2theconclusion",
+      "battle",
+      "blood",
+      "crowd",
+      "destruction",
+      "hindi",
+      "night",
+      "rbd",
+      "slowmo",
+      "soldiers",
+      "sword",
+      "triplearrowarchery"
+    ],
+    "src": "https://firebasestorage.googleapis.com/v0/b/vfxfinder-2023.appspot.com/o/thumbnails%2Fbaahubali_2_the_conclusion.webp?alt=media&token=2d186cf9-d0ad-4e10-ab3d-0ce04955019f",
+    "breakdownLinks": [
+      "https://youtu.be/pYAHj4qyGlM?feature=shared&t=326"
+    ],
+    "movieTitle": "Baahubali 2: The Conclusion"
   }
 ]
