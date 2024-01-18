@@ -393,6 +393,30 @@ h4 {
 }
 
 
+.buy-beer-button {
+  position: fixed;
+  right: 20px;
+  top: 20px;
+  background-color: #E492F5;
+  border: none;
+  border-radius: 5px;
+  color: #0D0325 !important;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  z-index: 1000;
+}
+
+.buy-beer-button:hover {
+  color: white !important;
+  background-color: #BB3FD4;
+}
+
+
+
 .video-count-text {
   text-align: center;
 }
@@ -530,10 +554,6 @@ h4 {
   }
 }
 
-
-
-
-
 .video-container img {
     max-width: 400px;
     width: 100%;
@@ -563,6 +583,7 @@ h4 {
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
 }
 
+
 .new-label {
   position: absolute;
   bottom: 15px;
@@ -577,17 +598,17 @@ h4 {
 }
 
 
-
-
 .video-thumbnail.show-label .new-label {
   display: block;
 }
+
 
 .related-video-wrapper {
   width: calc(24% - 10px);
   margin-right: 10px;
   margin-bottom: 10px;
 }
+
 
 .related-video-thumbnail {
   width: 100%;
@@ -597,12 +618,11 @@ h4 {
 }
 
 
-
-
 .search-container {
   flex: 1;
   text-align: center;
 }
+
 
 .button-container {
   flex: 1;
