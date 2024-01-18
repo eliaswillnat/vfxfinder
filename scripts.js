@@ -63,22 +63,28 @@ function addBreakdownLinks(videos) {
   videos.forEach(video => {
     const breakdownLinkContainer = document.createElement('div');
     breakdownLinkContainer.className = 'breakdown-link-container';
-    
-    video.breakdownLinks.forEach(link => {
-      const breakdownLink = document.createElement('a');
-      breakdownLink.href = link;
-      breakdownLink.target = '_blank';
-      breakdownLink.textContent = link;
-      breakdownLink.addEventListener('click', () => {
-      });
 
+    video.breakdownLinks.forEach(linkText => {
+      const breakdownLink = document.createElement('a');
+      
+      if (linkText === 'WIP') {
+        breakdownLink.href = "https://vfxfinder.com/add-video.html"; // Redirect to the 'add-video' page
+      } else {
+        breakdownLink.href = linkText;
+      }
+      
+      breakdownLink.target = '_blank';
+      breakdownLink.textContent = linkText;
       breakdownLinkContainer.appendChild(breakdownLink);
     });
     
     const videoThumbnail = document.querySelector(`[data-video-id="${video.id}"]`);
-    videoThumbnail.appendChild(breakdownLinkContainer);
+    if (videoThumbnail) {
+      videoThumbnail.appendChild(breakdownLinkContainer);
+    }
   });
 }
+
 
 
 

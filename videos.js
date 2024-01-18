@@ -57,13 +57,14 @@ function openVideoPopup(video, allVideos) {
   video.breakdownLinks.forEach(link => {
     const breakdownLinkItem = document.createElement('li');
     const breakdownLink = document.createElement('a');
-    breakdownLink.href = link;
+    breakdownLink.href = link === 'WIP' ? "https://vfxfinder.com/add-video.html" : link;
     breakdownLink.target = '_blank';
     breakdownLink.textContent = link;
-	breakdownLink.className = 'breakdown-link';
+    breakdownLink.className = 'breakdown-link';
     breakdownLinkItem.appendChild(breakdownLink);
     breakdownList.appendChild(breakdownLinkItem);
   });
+    
   
   if (video.breakdownLinks.length === 0) {
     videoTitle.style.display = 'none';
