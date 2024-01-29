@@ -499,7 +499,7 @@
     ],
     "src": "https://firebasestorage.googleapis.com/v0/b/vfxfinder-2023.appspot.com/o/thumbnails%2Finterstellar_blackhole.webp?alt=media&token=0fb9c2b6-197e-46b3-904e-66de10044549",
     "breakdownLinks": [
-      "WIP"
+      "https://youtu.be/MfGfZwQ_qaY?si=EiSW8RFEzjrOkSMy"
     ],
     "movieTitle": "Interstellar",
     "newLabel": null
@@ -572,7 +572,7 @@
     ],
     "src": "https://firebasestorage.googleapis.com/v0/b/vfxfinder-2023.appspot.com/o/thumbnails%2Fknowing.webp?alt=media&token=8684960b-b2d6-4ad8-81fb-6d735c4c9127",
     "breakdownLinks": [
-      "WIP"
+      "https://youtu.be/zfXLkIwVbHc?si=N7izKEPXrw57raFf&t=46"
     ],
     "movieTitle": "Knowing",
     "newLabel": null
@@ -836,7 +836,7 @@
     ],
     "src": "https://firebasestorage.googleapis.com/v0/b/vfxfinder-2023.appspot.com/o/thumbnails%2Fxmen_apocalypse.webp?alt=media&token=7124b164-b469-4683-b5d2-21612bb9e219",
     "breakdownLinks": [
-      "WIP"
+      "https://youtu.be/ymIezyXEJ5w?si=AKC8DsylqzLinsY8&t=18"
     ],
     "movieTitle": "X-Men: Apocalypse",
     "newLabel": null
@@ -885,7 +885,7 @@
     ],
     "src": "https://firebasestorage.googleapis.com/v0/b/vfxfinder-2023.appspot.com/o/thumbnails%2Fman_of_steel.webp?alt=media&token=4c48eb29-02f9-4d9e-a570-d71c28b34e2b",
     "breakdownLinks": [
-      "WIP"
+      "https://youtu.be/T1m0ORVdsQc?si=d2JMkeKq4iifsPu9"
     ],
     "movieTitle": "Man of Steel",
     "newLabel": null
@@ -986,7 +986,7 @@
       "terraforming",
       "transmutation"
     ],
-    "src": "https://firebasestorage.googleapis.com/v0/b/vfxfinder-2023.appspot.com/o/thumbnails%2Fstar_trek_2_the_wrath_of_khan.webp?alt=media&token=6d26569a-e187-48f3-8fac-361433369e80",
+    "src": "https://firebasestorage.googleapis.com/v0/b/vfxfinder-2023.appspot.com/o/thumbnails%2Fstar_trek_2_the_wrath_of_khan.webp?alt=media&token=0d8c7a0c-c488-4a6b-a4b6-324fb1fd6441",
     "breakdownLinks": [
       "https://www.youtube.com/watch?v=yR0HmxS66yk"
     ],
@@ -1016,7 +1016,7 @@
       "https://youtu.be/pYAHj4qyGlM?feature=shared&t=326"
     ],
     "movieTitle": "Baahubali 2: The Conclusion",
-    "newLabel": "NEW"
+    "newLabel": null
   },
   {
     "id": 26,
@@ -1060,6 +1060,49 @@
       "https://youtu.be/KM5vcKPXcdE?si=0lDD0qPDqVAF6AuW&t=375"
     ],
     "movieTitle": "Ant-Man",
+    "newLabel": "NEW"
+  },
+  {
+    "id": 27,
+    "href": "https://www.youtube.com/watch?v=wce3a5IU_X0",
+    "dataTags": [
+      "acidic",
+      "aliens",
+      "battlefield",
+      "blasts",
+      "blood",
+      "creature",
+      "cycle",
+      "dead",
+      "death",
+      "debris",
+      "edgeoftomorrow",
+      "embers",
+      "exosuit",
+      "explosion",
+      "fire",
+      "future",
+      "futuristic",
+      "military",
+      "mimic",
+      "sand",
+      "shapeshifting",
+      "smoke",
+      "sparks",
+      "sword",
+      "temporalloop",
+      "tentacles",
+      "timeloop",
+      "trails",
+      "weapons"
+    ],
+    "src": "https://firebasestorage.googleapis.com/v0/b/vfxfinder-2023.appspot.com/o/thumbnails%2Fedge_of_tomorrow.webp?alt=media&token=da2ae6af-a990-4bb1-81ce-d7e898f80cc0",
+    "breakdownLinks": [
+      "https://youtu.be/8_mDr7AYuIo?si=GNgyOAOimbISc4dw",
+      "https://www.youtube.com/watch?v=WyRYeJgNH_U&ab_channel=WellFedArtist",
+      "https://youtu.be/spD2KAgBH-s?si=gh00VtqQGCRhwTFd&t=34"
+    ],
+    "movieTitle": "Edge of Tomorrow",
     "newLabel": "NEW"
   }
 ]
