@@ -1060,7 +1060,7 @@
       "https://youtu.be/KM5vcKPXcdE?si=0lDD0qPDqVAF6AuW&t=375"
     ],
     "movieTitle": "Ant-Man",
-    "newLabel": "NEW"
+    "newLabel": null
   },
   {
     "id": 27,
@@ -1083,6 +1083,7 @@
       "fire",
       "future",
       "futuristic",
+      "futuristichud",
       "military",
       "mimic",
       "sand",
@@ -1103,6 +1104,51 @@
       "https://youtu.be/spD2KAgBH-s?si=gh00VtqQGCRhwTFd&t=34"
     ],
     "movieTitle": "Edge of Tomorrow",
+    "newLabel": "NEW"
+  },
+  {
+    "id": 28,
+    "href": "https://www.youtube.com/watch?v=t1WWDBTda2Y",
+    "dataTags": [
+      "adrenaline",
+      "aggressivity",
+      "alarm",
+      "blood",
+      "bomb",
+      "brutality",
+      "chaos",
+      "church",
+      "electricity",
+      "embers",
+      "explosion",
+      "fight",
+      "fire",
+      "firstperson",
+      "glass",
+      "grenade",
+      "gun",
+      "infection",
+      "kill",
+      "kingsmanthesecretservice",
+      "knife",
+      "massacre",
+      "massmurder",
+      "pistol",
+      "punch",
+      "shot",
+      "slowmo",
+      "sparks",
+      "splatter",
+      "webcam",
+      "wood"
+    ],
+    "src": "https://firebasestorage.googleapis.com/v0/b/vfxfinder-2023.appspot.com/o/thumbnails%2Fkingsman_the_secret_service.webp?alt=media&token=ad30d81e-f3ba-4bcc-b8c3-55ef2693d6cd",
+    "breakdownLinks": [
+      "https://youtu.be/C7IGDx3aMw4?feature=shared&t=774",
+      "https://youtu.be/pdh2knQ3Frc?feature=shared&t=5",
+      "https://youtu.be/G9sy_qwhjm8?feature=shared"
+    ],
+    "movieTitle": "Kingsman: The Secret Service",
     "newLabel": "NEW"
   }
 ]
