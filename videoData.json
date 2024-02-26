@@ -260,7 +260,9 @@
       "wormhole"
     ],
     "src": "https://firebasestorage.googleapis.com/v0/b/vfxfinder-2023.appspot.com/o/thumbnails%2Finterstellar_wormhole.webp?alt=media&token=6216c76b-b8fa-427c-8a8e-99485860161c",
-    "breakdownLinks": [],
+    "breakdownLinks": [
+      "WIP"
+    ],
     "movieTitle": "Interstellar",
     "newLabel": null
   },
